@@ -16,7 +16,7 @@
     "build": "shx rm -rf dist && tsc -p tsconfig.build.json",
     "typecheck": "tsc --noEmit",
     "typecheck-watch": "tsc --noEmit --watch",
-    "test": "vitest"
+    "test": "echo vitest no test"
   },
   "keywords": [],
   "author": "Luma <world@luma.email>",

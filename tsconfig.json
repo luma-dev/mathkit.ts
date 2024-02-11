@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "noUncheckedIndexedAccess": true,
+    "skipLibCheck": true,
+    "target": "ES2022",
+    "outDir": "dist",
+    "declaration": true,
+    "jsx": "react-jsx",
+    "incremental": true
+  },
+  "include": ["**/*.ts"]
+}
